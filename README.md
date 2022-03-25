@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://img.shields.io/badge/Asprite-7D929E?style=flat-square&logo=Asprite&logoColor=white"/>
+<a> a </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goodmoss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
