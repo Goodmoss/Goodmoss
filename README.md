@@ -15,6 +15,7 @@
   <img alt="c++" src ="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="Aseprite" src ="https://img.shields.io/badge/Aseprite-7D929E.svg?&style=for-the-badge&logo=Aseprite&logoColor=white"/>
+  <img alt="AdobePhotoshop" src ="https://img.shields.io/badge/AdobePhotoshop-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/>
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goodmoss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
