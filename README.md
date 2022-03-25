@@ -1,10 +1,11 @@
-### ✨ Goodmoss ✨
 
 <!--
 **Goodmoss/Goodmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <div align=center>
+  
+  ### ✨ Goodmoss ✨
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
